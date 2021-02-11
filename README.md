@@ -21,7 +21,11 @@ Ad add|얼굴인식 성별,나이대별 광고추천 서비스
  
 
 
+![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
+ 
 
+
+![스탬프](https://user-images.githubusercontent.com/70314209/107611384-3a558500-6c87-11eb-8f35-8efb40918b41.JPG)
 
 
 
