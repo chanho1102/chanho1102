@@ -12,7 +12,7 @@
   * Python
 
 
-* 👯프로젝트
+* 👯Project
 
 Name|Introduction|
 ---|---|
