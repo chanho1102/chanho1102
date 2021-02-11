@@ -14,11 +14,10 @@
 
 * 👯프로젝트
 
-이름|소개|
+Name|Introduction|
 ---|---|
-STAMP|위치기반 이벤트 정보 제공 웹사이트
-Ad add|얼굴인식 성별,나이대별 광고추천 서비스
- 
+STAMP|Website that provides location-based event information
+Ad add|Face recognition, gender and age-specific advertisement recommendation service
 
 
 ![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
