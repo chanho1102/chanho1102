@@ -12,7 +12,8 @@
   * Python
   
   ![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
-  ![스탬프](https://user-images.githubusercontent.com/70314209/107611216-d3d06700-6c86-11eb-8306-93852fb5b3d9.JPG)
+  ![스탬프](https://user-images.githubusercontent.com/70314209/107611384-3a558500-6c87-11eb-8f35-8efb40918b41.JPG)
+
 
 
 
