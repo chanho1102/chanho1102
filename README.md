@@ -10,6 +10,9 @@
 * 🌱 Studying ~
   * Java
   * Python
+  
+  ![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
+
 
  💬 **'Let's stick to the basics !!!'**
 
