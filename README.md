@@ -3,7 +3,7 @@
 
 * 😄 Personal Information
   * Name : chanho Park
-  * gender : Male
+  * Gender : Male
   * Date of birth : 11/02 1994
   * E-mail : chanho1102@naver.com
 
@@ -20,12 +20,11 @@ STAMP|Website that provides location-based event information
 Ad add|Face recognition, gender and age-specific advertisement recommendation service
 
 
-![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
- 
-
-
 ![스탬프](https://user-images.githubusercontent.com/70314209/107611384-3a558500-6c87-11eb-8f35-8efb40918b41.JPG)
 
+
+
+![애드애드](https://user-images.githubusercontent.com/70314209/107611110-953aac80-6c86-11eb-8257-3c1ccfcff313.JPG)
 
 
 
