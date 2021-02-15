@@ -6,6 +6,7 @@
   * Gender : Male
   * Date of birth : 11/02 1994
   * E-mail : chanho1102@naver.com
+  * Notion : https://www.notion.so/9a752c53ee3045b2afd657f447816959
 
 * 🌱 Studying ~
   * Java
