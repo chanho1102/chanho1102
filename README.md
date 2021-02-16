@@ -20,7 +20,7 @@ Name|Introduction|
 STAMP|Website that provides location-based event information
 Ad add|Face recognition, gender and age-specific advertisement recommendation service
 
-![1212](https://user-images.githubusercontent.com/70314209/108059409-ceb15480-7098-11eb-986e-51489a380647.JPG)
+![11111](https://user-images.githubusercontent.com/70314209/108060135-d7eef100-7099-11eb-9ecc-475c3e849cc6.JPG)
 
 
 
